@@ -1,0 +1,9 @@
+[submodule "alixa/cli"]
+	path = alixa/cli
+	url = git@gitlab.com:alixa/cli.git
+[submodule "alixa/ui"]
+	path = alixa/ui
+	url = git@gitlab.com:alixa/ui.git
+[submodule "alixa/rt"]
+	path = alixa/rt
+	url = git@gitlab.com:alixa/runtime.git
