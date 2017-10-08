@@ -1,4 +1,5 @@
 -cp kitchen
 -D analyzer-optimize
+-java-lib alixa/rt/lib/android.jar
 -main alixa.kitchen.Main
 --interp
