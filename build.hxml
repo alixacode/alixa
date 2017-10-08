@@ -1,0 +1,4 @@
+-cp kitchen
+-D analyzer-optimize
+-main alixa.kitchen.Main
+--interp

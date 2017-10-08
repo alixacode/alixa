@@ -1,0 +1,14 @@
+{
+  "name": "alixa",
+  "url" : "https://github.com/alixacode/alixa/",
+  "license": "MIT",
+  "tags": ["cross-platform", "native", "mobile", "ios", "android"],
+  "description": "Alixa is a cross-platform framework for developing truly native android and iOS applications",
+  "version": "1.0.0",
+  "classPath": "alixa/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["darmie"],
+  "dependencies": {
+   
+  }
+}
