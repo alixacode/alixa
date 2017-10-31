@@ -1,5 +1,8 @@
--cp kitchen
+-cp alixa/kitchen
 -D analyzer-optimize
 -java-lib alixa/rt/lib/android.jar
+-lib thx.core
+-lib objc-uikit10.2
+-lib promhx
 -main alixa.kitchen.Main
 --interp
